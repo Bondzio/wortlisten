@@ -1,0 +1,11 @@
+Rock
+Hose
+Jacke
+Hut
+Mütze
+Schal
+Handschuh
+Schuh
+Socke
+Hemd
+Gürtel

@@ -1,0 +1,13 @@
+{% extends "base.html.twig" %}
+
+{% block body %}
+    <div class="jumbotron">
+        <h1 class="display-4">{{ types[type].label }}</h1>
+        <hr class="my-4">
+        <ul>
+            {% for word in words %}
+                <li>{{ word }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}

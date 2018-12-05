@@ -1,0 +1,16 @@
+Buch
+Heft
+Füller
+Lineal
+Lupe
+Klingel
+Schreibtisch
+Tisch
+Stuhl
+Tafel
+Lehrer
+Schüler
+Mappe
+Stift
+Papier
+Schere
