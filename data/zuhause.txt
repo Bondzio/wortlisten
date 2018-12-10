@@ -2,6 +2,7 @@ Uhr
 Regal
 Radio
 Schrank
+Becher
 Glas
 Tasse
 Teller
@@ -57,3 +58,10 @@ Buddelkasten
 Klettergerüst
 Schaukel
 Rutsche
+Gabel
+Schere
+Löffel
+Flasche
+Schüssel
+Schale
+Brett
