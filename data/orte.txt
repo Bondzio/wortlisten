@@ -33,3 +33,7 @@ oben
 unten
 links
 rechts
+am Teich
+am See
+am Fluss
+in der Höhle

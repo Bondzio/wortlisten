@@ -1,3 +1,5 @@
+Blume
+Baum
 Rose
 Tulpe
 Nelke

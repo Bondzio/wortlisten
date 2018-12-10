@@ -95,6 +95,7 @@ Otter
 Panda
 Papagei
 Papageien
+Pferd
 Pferde
 Pinguine 
 Puma
@@ -134,3 +135,4 @@ Wolf
 Wölfe
 Ziege
 Ziegen
+Nilpferd

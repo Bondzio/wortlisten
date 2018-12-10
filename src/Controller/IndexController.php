@@ -9,7 +9,6 @@ use Symfony\Component\Routing\Annotation\Route;
 
 class IndexController extends BaseController
 {
-
     /**
      * @Route("/", methods={"GET","HEAD"}, name="home")
      */

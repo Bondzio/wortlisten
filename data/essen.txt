@@ -66,6 +66,8 @@ Fleisch
 Wurst
 Käse
 
+Keks
+Kekse
 Getränke
 Tee
 Saft

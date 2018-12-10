@@ -1,0 +1,14 @@
+rot
+orange
+gelb
+grün
+blau
+indigo
+violett
+schwarz
+rosa
+lila
+pink
+weiß
+braun
+grau

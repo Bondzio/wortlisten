@@ -14,7 +14,8 @@ class BaseController extends AbstractController
         /*if ($request->get('filter') == '') {
             $filter = null;
             $session->remove('filter');
-        } else*/if ($request->get('filter') !== null) {
+        } else*/
+        if ($request->get('filter') !== null) {
             $filter = (int)$request->get('filter');
             $session->set('filter', $filter);
         } elseif ($session->has('filter')) {
@@ -26,6 +27,27 @@ class BaseController extends AbstractController
     protected function buildFilterList()
     {
         // GSM-Fibel: M, A, I, O, P, T, L, H, F, U, R, N, S, E, D, K, Ei, W, Ch, G, Au, B, Sch, J, Z, Eu, ß, V, Ä, Ö, Ü, Äu, ck, Pf, C, Y, X, Qu
+        // 
+        $letters = [
+            'm',
+            'a',
+            'i',
+            'p',
+            'o',
+            'ruft',
+            'N',
+            'und',
+            'sind',
+            't',
+            'l',
+            'u',
+            'e',
+            's',
+            'r',
+
+        ];
+
+        /*
         $letters = [
             'M',
             'A',
@@ -66,13 +88,14 @@ class BaseController extends AbstractController
             'X',
             'Qu'
         ];
+        */
         $result = [
             [
                 'label' => 'alle',
                 'letters' => ''
             ]
         ];
-        for ($x = 3; $x < count($letters); $x++) {
+        for ($x = 3; $x < count($letters)+1; $x++) {
             $list = [];
             for ($y = 0; $y < $x; $y++) {
                 $list[] = $letters[$y];
@@ -117,6 +140,7 @@ class BaseController extends AbstractController
         $result['kleidung'] = ['type' => 'kleidung', 'file' => 'kleidung.txt', 'label' => 'Kleidung'];
         $result['name'] = ['type' => 'name', 'file' => 'namen.txt', 'label' => 'Namen'];
         $result['weltall'] = ['type' => 'weltall', 'file' => 'weltall.txt', 'label' => 'Erde & Weltall'];
+        $result['farben'] = ['type' => 'farben', 'file' => 'farben.txt', 'label' => 'Farben'];
         $result['nomen'] = ['type' => 'nomen', 'file' => 'worte.txt', 'label' => 'restliche Worte'];
         return $result;
     }

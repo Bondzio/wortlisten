@@ -13,7 +13,9 @@ Niere
 Bein
 Arm
 Hand
+Hände
 Fuß
+Füße
 Zeh
 Finger
 Bauch
