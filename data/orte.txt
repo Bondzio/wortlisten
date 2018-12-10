@@ -1,39 +1,39 @@
-an der Ostsee
-in Berlin
-im Urlaub
-in den Bergen
-im Harz
-in den Alpen
-im Spreewald
-auf Rügen
-in Afrika
-in Amerika
-am Südpol
-am Nordpol
-in Australien
-in Neuseeland
-am Mittelmeer
-in Italien
-in der Schweiz
-im Himalaya
-in China
-im Gebirge
-am Meer
-an der Nordsee
-auf Kuba
-am Ofen
-am Fenster
-auf der Straße
 am Baum
+am Fenster
+am Fluss
+am Meer
+am Mittelmeer
+am Nordpol
+am Ofen
+am See
+am Südpol
+am Teich
 am Weg
+an der Nordsee
+an der Ostsee
 auf dem Rasen
+auf der Straße
+auf Kuba
+auf Rügen
 draußen
 drinnen
-oben
-unten
-links
-rechts
-am Teich
-am See
-am Fluss
+im Gebirge
+im Harz
+im Himalaya
+im Spreewald
+im Urlaub
+in Afrika
+in Amerika
+in Australien
+in Berlin
+in China
+in den Alpen
+in den Bergen
 in der Höhle
+in der Schweiz
+in Italien
+in Neuseeland
+links
+oben
+rechts
+unten

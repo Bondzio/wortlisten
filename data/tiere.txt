@@ -5,9 +5,9 @@ Alligatoren
 Alpaka
 Alpakas
 Alpensegler
-Amsel
 Ameise
 Ameisen 
+Amsel
 Bär
 Bären
 Biber
@@ -91,6 +91,7 @@ Meise
 Meisen
 Nasenbär
 Nashörner 
+Nilpferd
 Otter
 Panda
 Papagei
@@ -115,10 +116,10 @@ Schildkröten
 Schimpanse
 Schwein
 Schweine
-Spinne
-Spinnen
 Spatz
 Spatzen
+Spinne
+Spinnen
 Storch
 Störche
 Tapir
@@ -135,4 +136,3 @@ Wolf
 Wölfe
 Ziege
 Ziegen
-Nilpferd
